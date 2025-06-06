@@ -1,0 +1,427 @@
+> > === BUILD SIN ARCHIVOS PROBLEMÁTICOS ===
+
+> react_repo@0.0.0 build /workspace/geenss-archenti-website
+> pnpm install && rm -rf node_modules/.vite-temp && tsc -b && vite build
+
+Lockfile is up to date, resolution step is skipped
+Already up to date
+Done in 1.3s using pnpm v10.11.0
+src/pages/Blog.tsx:90:7 - error TS2304: Cannot find name 'isDarkMode'.
+
+90       isDarkMode ? 'bg-gray-900' : 'bg-gray-50'
+         ~~~~~~~~~~
+
+src/pages/Blog.tsx:101:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+101             isDarkMode ? 'text-white' : 'text-gray-900'
+                ~~~~~~~~~~
+
+src/pages/Blog.tsx:103:14 - error TS2304: Cannot find name 't'.
+
+103             {t('blog.title')}
+                 ~
+
+src/pages/Blog.tsx:106:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+106             isDarkMode ? 'text-gray-300' : 'text-gray-600'
+                ~~~~~~~~~~
+
+src/pages/Blog.tsx:113:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+113             isDarkMode ? 'bg-gray-800' : 'bg-white'
+                ~~~~~~~~~~
+
+src/pages/Blog.tsx:118:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+118                 isDarkMode ? 'text-white' : 'text-gray-900'
+                    ~~~~~~~~~~
+
+src/pages/Blog.tsx:120:18 - error TS2304: Cannot find name 't'.
+
+120                 {t('blog.subscribe')}
+                     ~
+
+src/pages/Blog.tsx:124:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+124               isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                  ~~~~~~~~~~
+
+src/pages/Blog.tsx:126:16 - error TS2304: Cannot find name 't'.
+
+126               {t('blog.subscribeText')}
+                   ~
+
+src/pages/Blog.tsx:133:30 - error TS2304: Cannot find name 't'.
+
+133                 placeholder={t('blog.email')}
+                                 ~
+
+src/pages/Blog.tsx:135:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+135                   isDarkMode
+                      ~~~~~~~~~~
+
+src/pages/Blog.tsx:160:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+160                   isDarkMode ? 'bg-gray-800' : 'bg-white'
+                      ~~~~~~~~~~
+
+src/pages/Blog.tsx:174:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+174                     isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:187:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+187                     isDarkMode ? 'text-white' : 'text-gray-900'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:193:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+193                     isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:222:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+222                 isDarkMode ? 'bg-gray-800' : 'bg-white'
+                    ~~~~~~~~~~
+
+src/pages/Blog.tsx:234:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+234                     isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:247:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+247                     isDarkMode ? 'text-white' : 'text-gray-900'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:253:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+253                     isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:264:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+264                     isDarkMode ? 'border-gray-700' : 'border-gray-200'
+                        ~~~~~~~~~~
+
+src/pages/Blog.tsx:273:25 - error TS2304: Cannot find name 'isDarkMode'.
+
+273                         isDarkMode ? 'text-white' : 'text-gray-900'
+                            ~~~~~~~~~~
+
+src/pages/Blog.tsx:278:25 - error TS2304: Cannot find name 'isDarkMode'.
+
+278                         isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                            ~~~~~~~~~~
+
+src/pages/Contact.tsx:77:7 - error TS2304: Cannot find name 'isDarkMode'.
+
+77       isDarkMode ? 'bg-gray-900' : 'bg-gray-50'
+         ~~~~~~~~~~
+
+src/pages/Contact.tsx:88:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+88             isDarkMode ? 'text-white' : 'text-gray-900'
+               ~~~~~~~~~~
+
+src/pages/Contact.tsx:90:14 - error TS2304: Cannot find name 't'.
+
+90             {t('contact.title')}
+                ~
+
+src/pages/Contact.tsx:93:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+93             isDarkMode ? 'text-gray-300' : 'text-gray-600'
+               ~~~~~~~~~~
+
+src/pages/Contact.tsx:106:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+106               isDarkMode ? 'bg-gray-800' : 'bg-white'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:110:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+110               isDarkMode ? 'text-white' : 'text-gray-900'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:119:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+119                     isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:121:22 - error TS2304: Cannot find name 't'.
+
+121                     {t('contact.name')} *
+                         ~
+
+src/pages/Contact.tsx:130:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+130                       isDarkMode
+                          ~~~~~~~~~~
+
+src/pages/Contact.tsx:140:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+140                     isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:142:22 - error TS2304: Cannot find name 't'.
+
+142                     {t('contact.email')} *
+                         ~
+
+src/pages/Contact.tsx:151:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+151                       isDarkMode
+                          ~~~~~~~~~~
+
+src/pages/Contact.tsx:162:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+162                   isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                      ~~~~~~~~~~
+
+src/pages/Contact.tsx:164:20 - error TS2304: Cannot find name 't'.
+
+164                   {t('contact.subject')}
+                       ~
+
+src/pages/Contact.tsx:172:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+172                     isDarkMode
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:182:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+182                   isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                      ~~~~~~~~~~
+
+src/pages/Contact.tsx:184:20 - error TS2304: Cannot find name 't'.
+
+184                   {t('contact.message')} *
+                       ~
+
+src/pages/Contact.tsx:193:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+193                     isDarkMode
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:213:53 - error TS2304: Cannot find name 't'.
+
+213                     {isSubmitting ? 'Enviando...' : t('contact.send')}
+                                                        ~
+
+src/pages/Contact.tsx:221:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+221               isDarkMode ? 'bg-gray-700/50' : 'bg-gray-50'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:224:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+224                 isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                    ~~~~~~~~~~
+
+src/pages/Contact.tsx:240:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+240               isDarkMode ? 'bg-gray-800' : 'bg-white'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:243:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+243                 isDarkMode ? 'text-white' : 'text-gray-900'
+                    ~~~~~~~~~~
+
+src/pages/Contact.tsx:256:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+256                       isDarkMode
+                          ~~~~~~~~~~
+
+src/pages/Contact.tsx:262:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+262                       isDarkMode ? 'bg-gray-700' : 'bg-gray-100'
+                          ~~~~~~~~~~
+
+src/pages/Contact.tsx:268:25 - error TS2304: Cannot find name 'isDarkMode'.
+
+268                         isDarkMode ? 'text-white' : 'text-gray-900'
+                            ~~~~~~~~~~
+
+src/pages/Contact.tsx:273:25 - error TS2304: Cannot find name 'isDarkMode'.
+
+273                         isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                            ~~~~~~~~~~
+
+src/pages/Contact.tsx:285:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+285               isDarkMode ? 'bg-gray-800' : 'bg-white'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:295:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+295                     isDarkMode ? 'text-white' : 'text-gray-900'
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:300:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+300                     isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                        ~~~~~~~~~~
+
+src/pages/Contact.tsx:309:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+309                   isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                      ~~~~~~~~~~
+
+src/pages/Contact.tsx:316:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+316                   isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                      ~~~~~~~~~~
+
+src/pages/Contact.tsx:330:15 - error TS2304: Cannot find name 'isDarkMode'.
+
+330               isDarkMode ? 'bg-gradient-to-r from-gray-800 to-gray-700' : 'bg-gradient-to-r from-amber-50 to-orange-50'
+                  ~~~~~~~~~~
+
+src/pages/Contact.tsx:333:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+333                 isDarkMode ? 'text-white' : 'text-gray-900'
+                    ~~~~~~~~~~
+
+src/pages/Contact.tsx:338:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+338                 isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                    ~~~~~~~~~~
+
+src/pages/Events.tsx:29:11 - error TS2339: Property 'isDarkMode' does not exist on type 'AppState'.
+
+29   const { isDarkMode } = useAppStore();
+             ~~~~~~~~~~
+
+src/pages/Gallery.tsx:129:13 - error TS2304: Cannot find name 'isDarkMode'.
+
+129             isDarkMode ? 'bg-gray-800' : 'bg-white'
+                ~~~~~~~~~~
+
+src/pages/Gallery.tsx:136:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+136                   : isDarkMode
+                        ~~~~~~~~~~
+
+src/pages/Gallery.tsx:150:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+150                     : isDarkMode
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:176:19 - error TS2304: Cannot find name 'isDarkMode'.
+
+176                   isDarkMode ? 'bg-gray-800' : 'bg-white'
+                      ~~~~~~~~~~
+
+src/pages/Gallery.tsx:202:21 - error TS2304: Cannot find name 'isDarkMode'.
+
+202                     isDarkMode ? 'text-white' : 'text-gray-900'
+                        ~~~~~~~~~~
+
+src/pages/Gallery.tsx:209:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+209                       isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:216:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+216                       isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:223:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+223                       isDarkMode ? 'text-gray-400' : 'text-gray-600'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:234:22 - error TS2304: Cannot find name 't'.
+
+234                     {t('gallery.viewDetails')}
+                         ~
+
+src/pages/Gallery.tsx:259:17 - error TS2304: Cannot find name 'isDarkMode'.
+
+259                 isDarkMode ? 'bg-gray-800' : 'bg-white'
+                    ~~~~~~~~~~
+
+src/pages/Gallery.tsx:276:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+276                       isDarkMode ? 'text-white' : 'text-gray-900'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:283:25 - error TS2304: Cannot find name 'isDarkMode'.
+
+283                         isDarkMode ? 'hover:bg-gray-700' : 'hover:bg-gray-100'
+                            ~~~~~~~~~~
+
+src/pages/Gallery.tsx:292:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+292                       isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:295:54 - error TS2304: Cannot find name 't'.
+
+295                       <span className="font-medium">{t('gallery.year')}:</span>
+                                                         ~
+
+src/pages/Gallery.tsx:300:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+300                       isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:303:54 - error TS2304: Cannot find name 't'.
+
+303                       <span className="font-medium">{t('gallery.dimensions')}:</span>
+                                                         ~
+
+src/pages/Gallery.tsx:308:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+308                       isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:311:54 - error TS2304: Cannot find name 't'.
+
+311                       <span className="font-medium">{t('gallery.technique')}:</span>
+                                                         ~
+
+src/pages/Gallery.tsx:316:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+316                       isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:318:51 - error TS2304: Cannot find name 't'.
+
+318                       <p className="font-medium">{t('gallery.materials')}:</p>
+                                                      ~
+
+src/pages/Gallery.tsx:323:23 - error TS2304: Cannot find name 'isDarkMode'.
+
+323                       isDarkMode ? 'text-gray-300' : 'text-gray-700'
+                          ~~~~~~~~~~
+
+src/pages/Gallery.tsx:325:51 - error TS2304: Cannot find name 't'.
+
+325                       <p className="font-medium">{t('gallery.description')}:</p>
+                                                      ~
+
+src/pages/Privacy.tsx:10:11 - error TS2339: Property 'isDarkMode' does not exist on type 'AppState'.
+
+10   const { isDarkMode } = useAppStore();
+             ~~~~~~~~~~
+
+src/pages/Returns.tsx:10:11 - error TS2339: Property 'isDarkMode' does not exist on type 'AppState'.
+
+10   const { isDarkMode } = useAppStore();
+             ~~~~~~~~~~
+
+src/pages/Shipping.tsx:10:11 - error TS2339: Property 'isDarkMode' does not exist on type 'AppState'.
+
+10   const { isDarkMode } = useAppStore();
+             ~~~~~~~~~~
+
+
+Found 83 errors.
+
+ ELIFECYCLE  Command failed with exit code 2.

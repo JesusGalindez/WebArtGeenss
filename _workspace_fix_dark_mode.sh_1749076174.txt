@@ -1,0 +1,300 @@
+Eliminando referencias a isDarkMode en archivos TypeScript/JavaScript...
+Procesando directorio: src/pages
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Home.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedIUWTEm: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedopWUQ2: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedZl5Sfi: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedvwEoyM: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sediIsqS1: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedjKjwlg: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFUBUL2: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedERpvyV: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedADgkiP: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedq6UFMb: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedGrJnrY: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed3BRBjN: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Gallery.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed0Rnw9S: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed6fiMPs: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedm5hmEr: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedmJjb0N: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedxVou88: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9ERSjW: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFXz0lX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/seduuHf18: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedazohBo: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedazb7wF: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedh5OrS7: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedjVFzvo: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Privacy.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed4zcxLS: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedSNK7K5: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedNcbOIS: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedqg7b19: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedBI2BlN: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedAsCsTa: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedf2CEGI: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedX1ya31: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedBeRZzz: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedC7Pcpm: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed2rsbl3: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedbaJ7ON: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Shop.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedpw58MO: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedLVcfOi: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedW7KbZr: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedGOVvqI: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedbgAmNv: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedYzEYvA: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed7m1H47: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedi5kg4U: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/seduivDZJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedfL1FCq: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedWDHmOC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedQSLWmx: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Shipping.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sednoNJBz: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedhTakyo: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedGZYiTu: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedH0qoqR: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedqVRYfV: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedEoGmdF: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedC0Fg8X: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed75V0eg: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedprallC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedVsHpJX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sede7nB4Z: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sednHq0Jh: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Testimonials.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedwBkNzm: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedCOgAw3: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedHoEkWE: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9YE4y2: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedYQIN6Y: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedgIngBc: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed2Z5OzH: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sediNnMWs: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedbNZNiA: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedhX8avl: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedKImJB7: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedKjztdb: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Blog.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedM8w9ng: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedv9owNi: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedaNqUvY: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedkatq99: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedxatWLx: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed7RzIB3: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/seduciMLo: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedPGSZd2: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedAOUwMB: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedkLSdWX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedrki1DF: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedcH4YVr: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Returns.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedc453bS: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedHUQgXh: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedGJLe7u: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFtTAxy: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed58N4qZ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedaGaL2P: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed4aaopc: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedboaptU: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedABfjEk: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedTyQyS4: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9F0gjJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedVa1JaW: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Contact.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9JD5Z5: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedlmBbwl: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFYrVbw: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed53O4dX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedtPiWcL: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedyzRfTG: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedLrs1f3: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed7VyMyz: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed8nUZdo: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedjgNfMJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedCTtkW0: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFU6y7V: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Terms.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedfK8urQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedWlKiJm: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedkwumt2: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9m5fgO: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedsPx9Gy: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedda5mgc: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedxU90JC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedEzaGbr: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedkiBWAV: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedG6C8sQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedmaywol: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed7deDQr: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/pages/Events.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/seduKF8OZ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedlhDSXC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sed9escna: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedHFJSUk: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedg7sGVM: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFp85XP: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedFrzEmG: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedZ8GI2k: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedj07rxv: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedb4WHCC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedezDt2d: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/pages/sedU7fyst: Permission denied
+Procesando directorio: src/components
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Layout/Footer.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedVTqmPx: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedP3Us5E: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedTh7cWa: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedDwsnmp: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedS6dM65: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedszrsPb: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedCxnS8J: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedjs7nGO: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedgm2Dxn: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedY6lbGt: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedFf3x3H: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedwlWr5w: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Layout/SideMenu.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedu08Q7a: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedrqM6FO: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedJYxv2y: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/seduBwkSk: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed7rAykr: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedpsNLDD: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedNgI8HU: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedKvZs9p: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedpUohYK: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedQTOICJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedYN17jN: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedEMhSKd: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Layout/Header.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed9YrYUd: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedzwwsBJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedngjlBa: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed4iXDbJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedE1JXam: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedG1aVfJ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/seds9lTuK: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedIwnAz8: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedpG70zM: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed40a2SF: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sediOQiRn: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed29LJY7: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Layout/Layout.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedAidpMH: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedjEiKyF: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedvFE8bM: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedUO3ojG: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedPF51SD: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedpT1Rh0: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedKyduFX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedgVkBKz: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed6aAg42: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sedxDh8g8: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed6ZW7Os: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Layout/sed9cuJAh: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Scrolltelling/ScrolltellingSection.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sede9sFyI: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedD0INUf: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedxiy2bi: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedj7JAls: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedaCm3D5: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedbxeOio: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedPwqS1D: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedGxgqCX: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedgfZb8F: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedJbShpa: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedCjQxyQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/seda1LwvX: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Scrolltelling/TestimonialsBar.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/seds3Ho0x: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedkmRGFV: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedt0lmBd: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedMWF6iS: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedsgb9WC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedlINdDe: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedpS0fiZ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedb5hAhE: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedfqNxHM: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedRLmIQ1: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedd3yy3f: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sed8K7C9k: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Scrolltelling/Scrolltelling.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sed1iYWdk: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedY9JmxV: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedYTKy1f: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedXmrqq0: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedov6hFC: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sed0UwRDy: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedqLuCjv: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedYl7uup: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sed6SV0Hw: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedOZnNfQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedilzGpS: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedglTTSg: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/Scrolltelling/GalleryPreview.tsx
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedfubREj: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sede3P9Zm: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedqzmi4m: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedunfobO: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedT6oApo: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedSuCIIy: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedABRIeQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedgzAFMQ: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedbUUa46: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedCqgT2i: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedQyyz4r: Permission denied
+sed: couldn't open temporary file /workspace/geenss-archenti-website/src/components/Scrolltelling/sedB44p3y: Permission denied
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/command.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/resizable.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/textarea.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/drawer.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/aspect-ratio.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/popover.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/toggle.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/progress.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/radio-group.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/dialog.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/tooltip.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/toggle-group.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/accordion.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/avatar.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/table.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/input-otp.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/form.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/checkbox.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/sidebar.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/menubar.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/pagination.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/switch.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/context-menu.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/collapsible.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/tabs.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/input.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/toaster.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/calendar.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/sheet.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/hover-card.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/card.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/separator.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/alert.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/dropdown-menu.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/select.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/chart.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/label.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/skeleton.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/alert-dialog.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/sonner.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/button.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/carousel.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/slider.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/navigation-menu.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/toast.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/breadcrumb.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/scroll-area.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ui/badge.tsx
+Procesando archivo: /workspace/geenss-archenti-website/src/components/ErrorBoundary.tsx
+Script completado.
